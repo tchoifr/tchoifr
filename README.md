@@ -1,17 +1,51 @@
-# 👋 Salut, je m'appelle @François!
+# 👋 Salut, moi c’est François  
 
-Bienvenue sur mon profil GitHub! Je suis un développeur full stack passionné par la création d'applications web modernes en utilisant React et Symfony.
+Bienvenue sur mon profil GitHub ! 🚀  
+Je suis **développeur full stack** passionné, spécialisé dans la création d’applications web modernes et performantes avec **React**, **Vue.js** et **Symfony**.  
 
-## 👀 Mes centres d'intérêt
-- Développement full stack
-- React.js
-- Symfony
+---
 
-## 🌱 Ce que j'apprends actuellement
-En ce moment, je me perfectionne sur les frameworks Symfony et React / Vue.js pour rester à la pointe de la technologie et améliorer mes compétences en tant que développeur full stack.
+## 🔧 Stack & Outils  
 
-## 🌐 Portfolio
-Découvrez mon [portfolio](https://francois-giorgi-portfolio.netlify.app/) pour en savoir plus sur mes projets et compétences.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
-## 💞️ Collaboration
-Je suis ouvert à la collaboration sur des projets passionnants liés à React, Symfony, ou toute autre technologie connexe. Si vous avez des idées ou des projets, n'hésitez pas à me contacter!
+---
+
+## 👀 Centres d’intérêt  
+- Développement **front-end** (React / Vue.js)  
+- Développement **back-end** (Symfony, Node.js)  
+- Architecture logicielle & bonnes pratiques  
+- Optimisation UX/UI  
+
+---
+
+## 🌱 En apprentissage continu  
+Je me perfectionne actuellement sur :  
+- **Symfony** (back-end robuste et évolutif)  
+- **React & Vue.js** (front-end moderne et interactif)  
+- **CI/CD & DevOps** (intégration et déploiement automatisés)  
+
+---
+
+## 🌐 Mon portfolio  
+👉 Découvrez mes projets et réalisations sur mon [portfolio](https://francois-giorgi-portfolio.netlify.app/)  
+
+---
+
+## 📊 Mes stats GitHub  
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=FrancoisGiorgi&show_icons=true&theme=radical)  
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoisGiorgi&layout=compact&theme=radical)  
+
+---
+
+## 💡 Collaboration  
+Je suis toujours ouvert à collaborer sur des projets ambitieux en **React**, **Symfony** ou autres technologies web.  
+💌 N’hésitez pas à me contacter si vous souhaitez construire quelque chose de génial ensemble !  
