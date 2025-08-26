@@ -8,7 +8,7 @@ Bienvenue sur mon profil GitHub! Je suis un développeur full stack passionné p
 - Symfony
 
 ## 🌱 Ce que j'apprends actuellement
-En ce moment, je me perfectionne sur les frameworks Symfony et React pour rester à la pointe de la technologie et améliorer mes compétences en tant que développeur full stack.
+En ce moment, je me perfectionne sur les frameworks Symfony et React / Vue.js pour rester à la pointe de la technologie et améliorer mes compétences en tant que développeur full stack.
 
 ## 🌐 Portfolio
 Découvrez mon [portfolio](https://francois-giorgi-portfolio.netlify.app/) pour en savoir plus sur mes projets et compétences.
