@@ -41,8 +41,8 @@ Je me perfectionne actuellement sur :
 
 ## 📊 Mes stats GitHub  
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=FrancoisGiorgi&show_icons=true&theme=radical)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoisGiorgi&layout=compact&theme=radical)  
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=tchoifr&show_icons=true&theme=radical)  
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=tchoifr&layout=compact&theme=radical)  
 
 ---
 
