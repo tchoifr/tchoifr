@@ -42,14 +42,6 @@ Je me perfectionne actuellement sur :
 # 📊 Mes Stats GitHub
 
 Voici un aperçu complet de mon activité et de mes langages principaux sur GitHub.
-
-<!-- Stats générales -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=tchoifr&show_icons=true&theme=radical&include_all_commits=true"
-  alt="Stats GitHub"
-  style="max-width:31%; margin:10px"
-/>
-
 <!-- Langages les plus utilisés -->
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchoifr&layout=compact&theme=radical"
