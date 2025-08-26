@@ -39,10 +39,58 @@ Je me perfectionne actuellement sur :
 
 ---
 
-## 📊 Mes stats GitHub  
+# 📊 Mes Stats GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=tchoifr&show_icons=true&theme=radical)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=tchoifr&layout=compact&theme=radical)  
+Voici un aperçu complet de mon activité et de mes langages principaux sur GitHub.
+
+<!-- Stats générales -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=tchoifr&show_icons=true&theme=radical&include_all_commits=true"
+  alt="Stats GitHub"
+  style="max-width:31%; margin:10px"
+/>
+
+<!-- Langages les plus utilisés -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchoifr&layout=compact&theme=radical"
+  alt="Langages GitHub"
+  style="max-width:31%; margin:10px"
+/>
+
+<!-- Résumé global -->
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tchoifr&theme=radical"
+  alt="Résumé du profil GitHub"
+  style="max-width:31%; margin:10px"
+/>
+
+<!-- Nombre de commits par jour de la semaine -->
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tchoifr&theme=radical&utcOffset=1"
+  alt="Productivité GitHub"
+  style="max-width:31%; margin:10px"
+/>
+
+<!-- Stats par repo -->
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tchoifr&theme=radical"
+  alt="Repos par langage"
+  style="max-width:31%; margin:10px"
+/>
+
+<!-- Stats par commits/langage -->
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tchoifr&theme=radical"
+  alt="Langages les plus commités"
+  style="max-width:31%; margin:10px"
+/>
+
+<!-- Heatmap contributions GitHub -->
+<img
+  src="https://github.com/tchoifr.png?tab=contributions"
+  alt="Heatmap contributions GitHub"
+  style="max-width:100%; margin:10px"
+/>
 
 ---
 
