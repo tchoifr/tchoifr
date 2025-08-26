@@ -19,7 +19,8 @@ Je suis **développeur full stack** passionné, spécialisé dans la création d
 - Développement **front-end** (React / Vue.js)  
 - Développement **back-end** (Symfony, Node.js)  
 - Architecture logicielle & bonnes pratiques  
-- Optimisation UX/UI  
+- Optimisation UX/UI
+- Automatisation
 
 ---
 
