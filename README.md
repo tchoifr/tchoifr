@@ -84,14 +84,6 @@ Voici un aperçu complet de mon activité et de mes langages principaux sur GitH
   alt="Langages les plus commités"
   style="max-width:31%; margin:10px"
 />
-
-<!-- Heatmap contributions GitHub -->
-<img
-  src="https://github.com/tchoifr.png?tab=contributions"
-  alt="Heatmap contributions GitHub"
-  style="max-width:100%; margin:10px"
-/>
-
 ---
 
 ## 💡 Collaboration  
