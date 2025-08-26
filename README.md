@@ -79,5 +79,5 @@ Voici un aperçu complet de mon activité et de mes langages principaux sur GitH
 ---
 
 ## 💡 Collaboration  
-Je suis toujours ouvert à collaborer sur des projets ambitieux en **React**, **Vue.js**, **Symfony** ou autres technologies web.  
+Je suis toujours ouvert à collaborer sur des projets ambitieux en **React**, **Vue.js** & **Symfony** ou autres technologies web.  
 💌 N’hésitez pas à me contacter si vous souhaitez construire quelque chose de génial ensemble !  
